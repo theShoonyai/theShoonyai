@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theShoonyai
-- 👀 I’m interested in making lot of small intutive tools that solves some problems.
+- 👀 I’m interested in making a lot of small intuitive tools that solve some problems.
 - 🌱 I’m currently learning dart, flutter and go.
-- 💞️ I’m looking to collaborate on intutitive project on blockchains.
+- 💞️I’m looking to collaborate on an intuitive project on blockchains.
 - 📫 How to reach me... Coming soon.
 
 <!---
